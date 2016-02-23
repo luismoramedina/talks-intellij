@@ -1,68 +1,94 @@
-= intro & history
+= intellij idea: increasing your productivity
+luismoramedina@github
+:backend: deckjs
+:deckjs_theme: web-2.0
+:deckjs_transition: horizontal-slide
+:navigation:
+
+== intro & history
+
 * new community 2014
 * android studio
 * differences with others...
 * project, modules, workspace
 * index, all in memory
+* continuous adaptation to new frameworks/languajes
 
-= ui
+== ui
 * simple, powering your keyboard and focus in the code
 * no perspectives
 * minimal wizard and complex screens
 
-= features
-* maven & gradle
-* advanced VCS integration
-* *new* terminal
-* html, jsp, javascript (ultimate)
-
-= magic keys
+== magic keys
 * Ctrl * shift + a (apropos)
 * Alt + enter (actions)
 
-= navigate
-* project
-** Shift + Shift
-** Recent files
-** Search symbol
-** find in files
-* in file
-** F2
-** Last edit
-** Decompiler
-** Copy references
+== navigate in project
+* Shift + Shift 
+* Recent files  
+* Search symbol 
+* find in files 
+
+== navigate in file
+* F2
+* Last edit
+* Copy references
+* Decompiler
+* ctrl + b, ctrl + alt +b
 
 
-= editor
+== editor (1)
 * Alt + Enter (ctrl + 1)
-* code completion
-** smart
-** static
-* templates
-** surround template
+* smart code completion (double combo)
 * ctrl + shift + enter
+* static import
+* surround templates
+* templates
+
+== editor (2)
 * code generator
-* _Sublime_ style
+* override/implement
+* http://blog.jetbrains.com/idea/2014/03/intellij-idea-13-1-rc-introduces-sublime-text-style-multiple-selections/[_Sublime_ style]
 * inject languaje
 * select code, move code, clipboard history, etc.
 * refactor
-** extract to...
+* extract to...
+* inline
 
+== editor (3)
+* Param info
+* Contextual info
+* preview code
+* split v/h
 
-= git
+== git
 * update magic button
 * diff
+* move between changes
 
-= debugger
+== debugger
 * code completion
 * inline values
 * access to private methods, fields
 
+== other features
+* maven & gradle
+* advanced VCS integration
+* *new* terminal
+* Java 8 support
+* html, jsp, javascript (ultimate)
 
-= plugins
+== plugins
 
 * gist
 * jetty
 * lombok
 * adoc, md, yaml
-* scala, groovy
+* scala, groovy, kotlin
+
+== do you need more?
+
+https://blog.jetbrains.com/idea/2015/10/intellij-idea-tips-and-tricks/
+http://blog.jetbrains.com/idea/tag/30-days-guide/
+
+== You all owe me a beer!
