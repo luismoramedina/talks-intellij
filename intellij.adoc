@@ -1,0 +1,63 @@
+= intro & history
+* new community 2014
+* android studio
+* differences with others...
+* project, modules, workspace
+* index, all in memory
+
+= ui
+* simple, powering your keyboard and focus in the code
+* no perspectives
+* minimal wizard and complex screens
+
+= features
+* maven & gradle
+* advanced VCS integration
+* *new* terminal
+
+= magic keys
+* Ctrl * shift + a
+* Alt + enter
+
+= navigate
+* project
+** Shift + Shift
+** Recent files
+** Search symbol
+* in file
+** F2
+** Last edit
+** Decompiler
+** Copy references
+
+= keyboard
+* ctrl + shift + A
+
+= editor
+* Alt + Enter (ctrl + 1)
+* templates
+* code completion
+* ctrl + shift + enter
+* code generator
+* _Sublime_ style
+* inject languaje
+* refactor
+** extract to...
+
+
+= git
+* update magic button
+* diff
+
+= debugger
+* code completion
+* access to private methods, fields
+
+
+= plugins
+
+* gist
+* jetty
+* lombok
+* adoc, md, yaml
+* scala, groovy
