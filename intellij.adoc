@@ -14,33 +14,37 @@
 * maven & gradle
 * advanced VCS integration
 * *new* terminal
+* html, jsp, javascript (ultimate)
 
 = magic keys
-* Ctrl * shift + a
-* Alt + enter
+* Ctrl * shift + a (apropos)
+* Alt + enter (actions)
 
 = navigate
 * project
 ** Shift + Shift
 ** Recent files
 ** Search symbol
+** find in files
 * in file
 ** F2
 ** Last edit
 ** Decompiler
 ** Copy references
 
-= keyboard
-* ctrl + shift + A
 
 = editor
 * Alt + Enter (ctrl + 1)
-* templates
 * code completion
+** smart
+** static
+* templates
+** surround template
 * ctrl + shift + enter
 * code generator
 * _Sublime_ style
 * inject languaje
+* select code, move code, clipboard history, etc.
 * refactor
 ** extract to...
 
@@ -51,6 +55,7 @@
 
 = debugger
 * code completion
+* inline values
 * access to private methods, fields
 
 
