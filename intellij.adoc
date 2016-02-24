@@ -1,7 +1,7 @@
-= intellij idea: increasing your productivity
-luismoramedina@github
+= intellij idea
+increasing your productivity
 :backend: deckjs
-:deckjs_theme: web-2.0
+:deckjs_theme: neon
 :deckjs_transition: horizontal-slide
 :navigation:
 
@@ -20,7 +20,7 @@ luismoramedina@github
 * minimal wizard and complex screens
 
 == magic keys
-* Ctrl * shift + a (apropos)
+* Ctrl + shift + a (apropos)
 * Alt + enter (actions)
 
 == navigate in project
@@ -91,4 +91,6 @@ luismoramedina@github
 https://blog.jetbrains.com/idea/2015/10/intellij-idea-tips-and-tricks/
 http://blog.jetbrains.com/idea/tag/30-days-guide/
 
-== You all owe me a beer!
+[quote]
+  ___________________________________________
+   You all owe me a beer!
