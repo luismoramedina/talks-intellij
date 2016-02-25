@@ -4,30 +4,29 @@ increasing your productivity
 :deckjs_theme: neon
 :deckjs_transition: horizontal-slide
 :navigation:
+:menu:
+:status:
+:toc:
 
-== intro & history
 
-* new community 2014
-* android studio
-* differences with others...
-* project, modules, workspace
+== intro
+
+* community in 2009 & android studio
+* ultimate (pay version)
+* context is very important!
 * index, all in memory
 * continuous adaptation to new frameworks/languajes
-
-== ui
-* simple, powering your keyboard and focus in the code
+* project, modules, workspace
+* simple ui, powering your keyboard and focus in the code
 * no perspectives
 * minimal wizard and complex screens
 
-== magic keys
-* Ctrl + shift + a (apropos)
-* Alt + enter (actions)
-
 == navigate in project
-* Shift + Shift 
-* Recent files  
-* Search symbol 
-* find in files 
+* Shift + Shift
+* Recent files
+* Search symbol
+* find in files
+* usages
 
 == navigate in file
 * F2
@@ -38,28 +37,30 @@ increasing your productivity
 
 
 == editor (1)
-* Alt + Enter (ctrl + 1)
+* Magic keys
+** *Ctrl + shift + a (command list)*
+** *Alt + enter (actions, ctrl + 1)*
 * smart code completion (double combo)
 * ctrl + shift + enter
 * static import
-* surround templates
-* templates
+* surround templates/unwrap
+* live templates
 
 == editor (2)
-* code generator
+* code generator (alt + ins)
 * override/implement
-* http://blog.jetbrains.com/idea/2014/03/intellij-idea-13-1-rc-introduces-sublime-text-style-multiple-selections/[_Sublime_ style]
-* inject languaje
-* select code, move code, clipboard history, etc.
+* inject languaje/auto scape
+* Copy/paste is obsolete!! 
+* http://blog.jetbrains.com/idea/2014/03/intellij-idea-13-1-rc-introduces-sublime-text-style-multiple-selections/[_Sublime_ style], select code, move code, clipboard history, etc.
 * refactor
-* extract to...
-* inline
+* extract to/inline
 
 == editor (3)
 * Param info
 * Contextual info
 * preview code
 * split v/h
+* lambdas
 
 == git
 * update magic button
@@ -73,10 +74,9 @@ increasing your productivity
 
 == other features
 * maven & gradle
-* advanced VCS integration
 * *new* terminal
 * Java 8 support
-* html, jsp, javascript (ultimate)
+* spring, spring boot, html, jsp, javascript (ultimate)
 
 == plugins
 
