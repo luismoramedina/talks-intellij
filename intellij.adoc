@@ -33,7 +33,8 @@ increasing your productivity
 * Last edit
 * Copy references
 * Decompiler
-* ctrl + b, ctrl + alt +b
+* ctrl + b, ctrl + alt + b
+* ctrl alt + UP/DOWN
 
 
 == editor (1)
@@ -81,7 +82,6 @@ increasing your productivity
 == plugins
 
 * gist
-* jetty
 * lombok
 * adoc, md, yaml
 * scala, groovy, kotlin
@@ -93,4 +93,4 @@ http://blog.jetbrains.com/idea/tag/30-days-guide/
 
 [quote]
   ___________________________________________
-   You all owe me a beer!
+   Thanks for attending!
